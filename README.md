@@ -5,7 +5,7 @@ Este repositorio contiene el código para crear un bot utilizando la biblioteca 
 ## Configuración
 
 1. Clona este repositorio en tu máquina local.
-- git clone https://github.com/tuusuario/tu-repositorio.git
+- git clone https://github.com/pabloesteban2712/Telegram-Music-Bot.git
 
 2. Instala las dependencias necesarias con el siguiente comando:
 - pip install -r requirements.txt
